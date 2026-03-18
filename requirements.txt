@@ -1,0 +1,18 @@
+# Ciência de Dados & Machine Learning
+numpy>=2.0
+pandas>=2.2
+scikit-learn>=1.5
+scipy>=1.13
+
+# Otimização
+pyomo>=6.7
+ortools>=9.10
+
+# Visualização
+matplotlib>=3.9
+seaborn>=0.13
+plotly>=5.22
+
+# Notebooks
+jupyter>=1.1
+ipykernel>=6.29

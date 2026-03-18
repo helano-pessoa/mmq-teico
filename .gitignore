@@ -1,0 +1,49 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.Python
+
+# Ambientes virtuais
+.venv/
+venv/
+env/
+ENV/
+
+# Julia
+*.jl.cov
+*.jl.*.cov
+*.jl.mem
+/Manifest.toml
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Dados
+data/
+outputs/
+*.parquet
+*.h5
+*.csv
+
+# Variáveis de ambiente
+.env
+.env.*
+
+# Testes
+.pytest_cache/
+htmlcov/
+.coverage
+
+# IDEs e config local
+.vscode/
+.idea/
+.github/
+
+# SO
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+*.tmp
